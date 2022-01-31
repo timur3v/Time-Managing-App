@@ -1,0 +1,42 @@
+.UnimportantTaskBox {
+    background-color: #549AEC;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: normal;
+    margin: 10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    text-align: start;
+    border-radius: 10px;
+    height: 60px;
+    width: 70%;
+    align-self: center;
+    overflow: hidden;
+}
+
+.ImportantTaskBox {
+    background-color: #D05252;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: normal;
+    margin: 10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    text-align: start;
+    border-radius: 10px;
+    height: 60px;
+    width: 70%;
+    align-self: center;
+    padding-right: 60px;
+    overflow: hidden;
+}
+
+.DoneBtn {
+    position: absolute;
+    font-size: 30px;
+    background-color: transparent;
+    border: none;
+    transform: translate3d(-100%, 50%, 0px);
+}

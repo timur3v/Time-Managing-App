@@ -1,0 +1,31 @@
+.UnscheduledEventsPage {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.Buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+button.UnscheduledEventsPage {
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+#add_task_btn {
+    background-color: #F9F480;
+}
+
+#switch_btn {
+    background: #AAACDE;
+}

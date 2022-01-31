@@ -1,0 +1,36 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+asgiref=3.4.1=pyhd3eb1b0_0
+ca-certificates=2021.10.8=h033912b_0
+certifi=2021.10.8=py39h6e9494a_1
+cffi=1.14.6=py39h2125817_0
+cryptography=36.0.1=py39h209aa08_0
+django=3.2.5=pyhd3eb1b0_0
+django-cors-headers=3.10.1=pyhd8ed1ab_0
+djangorestframework=3.13.0=pyhd8ed1ab_0
+djangorestframework_simplejwt=4.4.0=py_0
+krb5=1.19.2=hcd88c3b_0
+libcxx=12.0.0=h2f01273_0
+libedit=3.1.20210910=hca72f7f_0
+libffi=3.3=hb1e8313_2
+libpq=12.9=h1c9f633_1
+ncurses=6.3=hca72f7f_2
+openssl=1.1.1l=h0d85af4_0
+pip=21.2.4=py39hecd8cb5_0
+psycopg2=2.8.6=py39hbcfaee0_1
+pycparser=2.21=pyhd8ed1ab_0
+pyjwt=1.7.1=py_0
+python=3.9.7=h88f2d9e_1
+python_abi=3.9=2_cp39
+pytz=2021.3=pyhd3eb1b0_0
+readline=8.1=h9ed2024_0
+setuptools=58.0.4=py39hecd8cb5_0
+sqlite=3.36.0=hce871da_0
+sqlparse=0.4.1=py_0
+tk=8.6.11=h7bc2e8c_0
+typing_extensions=3.10.0.2=pyh06a4308_0
+tzdata=2021e=hda174b7_0
+wheel=0.37.0=pyhd3eb1b0_1
+xz=5.2.5=h1de35cc_0
+zlib=1.2.11=h1de35cc_3

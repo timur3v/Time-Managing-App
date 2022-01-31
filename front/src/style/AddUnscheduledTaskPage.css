@@ -1,0 +1,64 @@
+#add_unsched_task_page_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#important_btn {
+    margin: 30px;
+    margin-left: 0%;
+    font-size: 30px;
+    border-radius: 10px;
+    font-family: Roboto;
+}
+
+#important_btn.Pressed {
+    background-color: #D05252;
+}
+
+#important_btn.NotPressed {
+    background-color: white;
+}
+
+.toggle {
+    color: yellow;
+}
+
+.AddUnscheduledTaskPage {
+    margin-left: 10%;
+    font-family: Roboto;
+}
+
+p.AddUnscheduledTaskPage {
+    font-size: 25px;
+    margin-left: 0px;
+}
+
+textarea.AddUnscheduledTaskPage {
+    font-size: 20px;
+    width: 80%;
+    margin-left: 0px;
+}
+
+#task_description {
+    height: 3em;
+    margin-bottom: 25px;
+}
+
+#comment {
+    height: 5em;
+}
+
+#add_btn {
+    background-color: #F9F480;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 30px;
+    margin-left: 0px;
+}
+
+#adding_text {
+    margin-left: -10%;
+    font-size: 30px;
+    text-align: center;
+}

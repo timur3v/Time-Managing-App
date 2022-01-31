@@ -1,0 +1,26 @@
+.RegisterPage {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-evenly;
+}
+
+#create_account_text {
+    font-size: 70;
+}
+
+.ExtraRegisterPageText {
+    font-size: 30px;
+}
+
+#error_text {
+    color: red;
+    font-size: 30px;
+}
